@@ -34,9 +34,14 @@ const Colors = ({ handleChange }) => {
           name="test1"
           color="red"
         />
-
-       
-    
+         <Input
+          handleChange={handleChange}
+          value="white"
+          title="White"
+          name="test1"
+          color="white"
+        />
+{/* 
     <label className="sidebar-label-container">
           <input
             onChange={handleChange}
@@ -49,7 +54,7 @@ const Colors = ({ handleChange }) => {
             style={{ background: "white", border: "2px solid black" }}
           ></span>
           White
-        </label>
+        </label> */}
       </div>
     </>
   );

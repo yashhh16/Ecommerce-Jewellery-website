@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-Jewellery-website/static/css/main.340790f7.css",
+    "main.js": "/Ecommerce-Jewellery-website/static/js/main.df5f9a36.js",
+    "index.html": "/Ecommerce-Jewellery-website/index.html",
+    "main.340790f7.css.map": "/Ecommerce-Jewellery-website/static/css/main.340790f7.css.map",
+    "main.df5f9a36.js.map": "/Ecommerce-Jewellery-website/static/js/main.df5f9a36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.340790f7.css",
+    "static/js/main.df5f9a36.js"
+  ]
+}
